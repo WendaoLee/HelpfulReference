@@ -1,0 +1,2 @@
+1. What is functor in Haskell  https://scarletsky.github.io/2016/02/09/what-is-functor-in-haskell/
+2. An Alternative Approach https://mmhaskell.com/blog/2022/3/21/an-alternative-approach#:~:text=The%20Alternative%20class%20works%20for%20all%20%22applicative%22%20types%2C,%22In%20case%20this%20action%20fails%2C%20do%20this%20instead.%22
